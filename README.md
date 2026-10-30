@@ -1,1 +1,1 @@
-# AI Lab 1 - Pyhton Programs
+# AI Lab 1 - Python Programs
